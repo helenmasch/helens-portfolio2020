@@ -4,4 +4,4 @@
 
 ### Contact me, let's work together! 
 * Email Me: maschmeyerhelen@gmail.com
-* [Let's Connect on Linkedin](https://www.linkedin.com/in/helen-maschmeyer-7275088a/)
+* Let's Connect[Linkedin](https://www.linkedin.com/in/helen-maschmeyer-7275088a/)
