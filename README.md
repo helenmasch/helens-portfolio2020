@@ -2,7 +2,7 @@
 
 ## My portfolio is built from HTML, CSS and JavaScript. It's a great way to understand how I code and what kinds of projects I have experience in building! 
 
-### More projects to come, stay tuned!
+### * More projects to come, stay tuned!
 
 ### Contact me, let's work together! 
 * Email Me: maschmeyerhelen@gmail.com
