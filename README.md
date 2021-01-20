@@ -1,4 +1,4 @@
-# Helen Maschmeyer's Portfolio 2020
+# Helen Maschmeyer's Portfolio 2021
 
 ## My portfolio is built from HTML, CSS and JavaScript. It's a great way to understand how I code and what kinds of projects I have experience in building! 
 
