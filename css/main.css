@@ -2,13 +2,14 @@
    1. IMPORT GOOGLE FONTS
    ========================================================================== */
 @import url("https://fonts.googleapis.com/css?family=Montserrat:500,700|Open+Sans");
+
 /* ==========================================================================
    2. GENERAL
    ========================================================================== */
 body {
   font-family: 'Open Sans', sans-serif;
   color: #546E7A;
-  font-size: 15px;
+  font-size: 1px;
   font-weight: 400;
   background: #fff;
   overflow-x: hidden;
