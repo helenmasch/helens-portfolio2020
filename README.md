@@ -4,7 +4,7 @@
 
 ### * More projects to come, stay tuned!
 
-### Contact me, let's work together! 
+> Contact me, let's work together! :genie_woman:
 * Email Me: maschmeyerhelen@gmail.com
 * Let's Connect: [Linkedin](https://www.linkedin.com/in/helen-maschmeyer-7275088a/)
 * My Foodie-gram: [@hangryandhungry](https://www.instagram.com/hangryandhungry/)
