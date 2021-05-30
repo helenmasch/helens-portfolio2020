@@ -8,3 +8,8 @@
 > * Email Me: maschmeyerhelen@gmail.com
 > * Let's Connect: [Linkedin](https://www.linkedin.com/in/helen-maschmeyer-7275088a/)
 > * My Foodie-gram: [@hangryandhungry](https://www.instagram.com/hangryandhungry/)
+
+### Tech Used
+> HTML
+> CSS
+> JavaScript
